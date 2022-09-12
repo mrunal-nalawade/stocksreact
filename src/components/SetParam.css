@@ -1,0 +1,21 @@
+.paramContainer {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: white;
+}
+
+.paramTitle{
+    margin: 0px;
+}
+
+.paramInput{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+
+}

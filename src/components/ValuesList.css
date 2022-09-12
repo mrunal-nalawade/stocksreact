@@ -1,0 +1,22 @@
+.valuesContainer {
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.values{
+    color: white;
+    border-bottom: dotted white;
+    width: 96%;
+    margin: 0px;
+    padding: 2%;
+}
+
+
+@media screen and (max-width:480px) {
+    .valuesContainer {
+      width: 80%;
+    }
+  }
+  

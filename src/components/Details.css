@@ -1,0 +1,26 @@
+.detailsContainer {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.titleBar {
+    width: 100%;
+    background-color: #1686b0;
+    height: max-content;
+}
+
+.detailsText {
+    margin: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.bullish {
+    color: green !important;
+}
+
+.bearish {
+    color: red !important;
+}

@@ -1,0 +1,26 @@
+.barBox{
+    color: white;
+    border-bottom: dotted white;
+    width: 90%;
+    margin: auto;
+    padding: 2%;
+    cursor: pointer;
+}
+
+.stocktitle{
+    padding: 5px;
+    margin: 0px;
+}
+
+.stockTag{
+    padding: 5px;
+    margin: 0px;
+}
+
+.bullish{
+    color: green;
+}
+
+.bearish{
+    color: red;
+}
